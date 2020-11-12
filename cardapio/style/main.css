@@ -1,0 +1,55 @@
+header, main, div#Cardapio, footer, input{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: khaki;
+
+}
+
+main{
+    justify-content: center;
+    text-align: center;
+}
+nav#menu, div#Cardapio{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+button{
+    background-color: yellow;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: black;
+    width: 150px;
+}
+
+h1{
+    background-color: yellow;
+    border-radius: 10px;
+    border-style: solid;
+    
+}
+
+div.produto{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 250px;
+}
+
+span.preco{
+    background-color: yellow;
+    width: 100px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+footer{
+    justify-content: center;
+}
+header{
+    justify-content: space-around;
+    align-items: center;
+}
+hr{
+    background-color: khaki;
+}
