@@ -1,0 +1,362 @@
+
+    body h1{
+        color: yellow
+
+    }
+    header h4{
+        color: yellow;
+    }
+    #menu{
+        width: 30%;
+
+    }
+    #cardapio{
+        display: flex;
+        flex-direction: row;
+        margin: 5%;
+        margin-top: 3%;
+        
+    }
+    #x-salada h2{
+        display: flex;
+        text-align: center;
+        color: yellow;
+        flex-direction: column;
+    }
+    #x-salada img{
+        display: flex;
+        width: 143px;
+        margin: 0%;
+        flex-direction: column;
+        
+
+    }
+    #x-salada{
+        background-color: rgba(0,0,0, 0.85);;
+        width: 20%;
+        height: 330px;
+        display: flex;
+        flex-direction: column;
+       margin: 2.5%;
+        border-radius: 20%;
+
+        }
+        #x-salada button{
+            background-color: yellow;
+            display: flex;
+            color: black;
+            
+            text-align: center;
+            text-decoration: none;
+            flex-direction: column;
+            
+            font-size: 23px;
+        }
+        #x-bacon h2{
+            text-align: center;
+            color: yellow;
+            display: flex;
+            flex-direction: column;
+
+        }
+        #x-bacon img{
+            display: flex;
+            width: 143px;
+            margin: 1%;
+            flex-direction: column;
+        }
+        #x-bacon{
+            background-color: rgba(0,0,0, 0.85);;
+        width: 20%;
+        height: 330px;
+        display: flex;
+        flex-direction: column;
+       margin: 2.5%;
+        border-radius: 20%;
+
+        }
+       
+       
+       #x-bacon button{
+        background-color: yellow;
+        display: flex;
+        color: black;
+        
+        text-align: center;
+        text-decoration: none;
+        flex-direction: column;
+        
+        font-size: 23px;
+           
+       }
+       #x-egg h2{
+        text-align: center;
+        color: yellow;
+        display: flex;
+        flex-direction: column;
+
+    }
+    #x-egg img{
+        display: flex;
+    width: 150px;
+    margin: 2%;
+    flex-direction: column;
+    }
+    #x-egg{
+        background-color: rgba(0,0,0, 0.85);;
+        width: 20%;
+        height: 330px;
+        display: flex;
+        flex-direction: column;
+        margin:2.5%;
+   
+    border-radius: 20%;
+    }
+   
+   
+   #x-egg button{
+    background-color: yellow;
+    display: flex;
+    color: black;
+    
+    text-align: center;
+    text-decoration: none;
+    flex-direction: column;
+    
+    font-size: 23px;
+   }
+   #x-tudo h2{
+    display: flex;
+    text-align: center;
+    color: yellow;
+    flex-direction: column;
+}
+#x-tudo img{
+    display: flex;
+    width: 146px;
+    margin: 0%;
+    flex-direction: column;
+    
+
+}
+#x-tudo{
+    background-color: rgba(0,0,0, 0.85);;
+    width: 20%;
+    height: 330px;
+    display: flex;
+    flex-direction: column;
+   margin: 2.5%;
+    border-radius: 20%;
+
+    }
+    #x-tudo button{
+        background-color: yellow;
+        display: flex;
+        color: black;
+        
+        text-align: center;
+        text-decoration: none;
+        flex-direction: column;
+        
+        font-size: 23px;
+    }
+    #x-veg h2{
+        text-align: center;
+        color: yellow;
+        display: flex;
+        flex-direction: column;
+
+    }
+    #x-veg img{
+        display: flex;
+        width: 132px;
+        margin: 1%;
+        flex-direction: column;
+    }
+    #x-veg{
+        background-color: rgba(0,0,0, 0.85);;
+        width: 20%;
+        height: 330px;
+        display: flex;
+        flex-direction: column;
+        margin:2.5%;
+   
+    border-radius: 20%;
+    }
+   
+   
+   #x-veg button{
+    background-color: yellow;
+    display: flex;
+    color: black;
+    
+    text-align: center;
+    text-decoration: none;
+    flex-direction: column;
+    
+    font-size: 23px;
+       
+   }
+   #amodadacasa h2{
+    text-align: center;
+    color: yellow;
+    display: flex;
+    flex-direction: column;
+
+}
+#amodadacasa img{
+    display: flex;
+    width: 194px;
+    margin: 4%;
+    flex-direction: column;
+}
+#amodadacasa{
+    background-color: rgba(0,0,0, 0.85);;
+    width: 20%;
+    height: 330px;
+    display: flex;
+    flex-direction: column;
+    margin:2.5%;
+
+border-radius: 20%;
+}
+
+
+#amodadacasa button{
+background-color: yellow;
+display: flex;
+color: black;
+
+text-align: center;
+text-decoration: none;
+flex-direction: column;
+
+font-size: 23px;
+}
+#comdoritos h2{
+    text-align: center;
+    color: yellow;
+    display: flex;
+    flex-direction: column;
+}
+#comdoritos img{
+    display: flex;
+width: 187px;
+margin: 2%;
+flex-direction: column;
+}
+#comdoritos{
+    background-color: rgba(0,0,0, 0.85);;
+    width: 20%;
+    height: 330px;
+    display: flex;
+    flex-direction: column;
+    margin:2.5%;
+
+border-radius: 20%;
+}
+#comdoritos button{
+    background-color: yellow;
+    display: flex;
+    color: black;
+    
+    text-align: center;
+    text-decoration: none;
+    flex-direction: column;
+    
+    font-size: 23px;
+    }
+    #x-frango h2{
+        text-align: center;
+    color: yellow;
+    display: flex;
+    flex-direction: column;
+    }
+    #x-frango img{
+        display: flex;
+        width: 140px;
+        margin: 2%;
+        flex-direction: column;
+    }
+    #x-frango{
+        background-color: rgba(0,0,0, 0.85);;
+        width: 20%;
+        height: 330px;
+        display: flex;
+        flex-direction: column;
+        margin:2.5%;
+    
+    border-radius: 20%;
+    }
+    #x-frango button{
+        background-color: yellow;
+        display: flex;
+        color: black;
+        
+        text-align: center;
+        text-decoration: none;
+        flex-direction: column;
+        
+        font-size: 23px;
+        }
+   body {
+    background-image: url("pdp.jpg");
+    margin: 0%;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+    border-radius: 150px ;
+
+  }
+  
+  li {
+    float: left;
+    flex-direction: row;
+    
+  }
+  
+  li a {
+    background-color:yellow;
+  
+    display: flex;
+    color: black;
+    text-align: center;
+    padding: 15px 71px;
+    text-decoration: none;
+    border-radius: 25px;
+    
+  }
+       .dropdown {
+        position: relative;
+        display: inline-block;
+      }
+      
+      .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color:yellow;
+        min-width: 300px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        padding: 12px 16px;
+        z-index: 1;
+      }
+      
+      .dropdown:hover .dropdown-content {
+        display: block;
+      }
+      li a:hover:not(.active) {
+        background-color: green;
+      }
+      .active {
+        background-color: red;
+      }
+     
+     
+        
+        
+
+   
